@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Reeves Coursey
+## 📸 About Me
+
+![Reeves at the Grand Canyon](assets/photos/gc25_tuckup_stem.png)
+
+I love hiking, cooking lasagna with friends, and working on side projects like this one.
 
 Welcome to my portfolio site! I’m a financial analyst with interests in public finance, real estate, and data science.
 
