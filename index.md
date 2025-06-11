@@ -1,10 +1,6 @@
 ## 📸 About Me
 
-<img src="assets/images/grand_canyon.jpg" alt="Reeves at the Grand Canyon" width="400"/>
-
-I love hiking, cooking lasagna with friends, and working on side projects like this one.
-
-I love hiking, cooking lasagna with friends, and working on side projects like this one.
+<img src="images/grand_canyon.jpg" alt="Reeves at the Grand Canyon" width="400"/>
 
 Welcome to my portfolio site! I’m a financial analyst with interests in public finance, real estate, and data science.
 
