@@ -14,5 +14,5 @@ Check out my Streamlit-based golf performance dashboard!
 I love hiking, cooking lasagna with friends, and working on side projects like this one.
 
 ## 💼 Projects
-- [Golf Stats Dashboard](https://github.com/reevescoursey/golf-dashboard)
+- [Golf Stats Dashboard]([https://github.com/reevescoursey/golf-dashboard](https://github.com/reevescoursey/golf-stats-app))
 - More coming soon!
