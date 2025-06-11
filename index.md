@@ -1,6 +1,7 @@
 ## 📸 About Me
 
-<img src="assets/images/gc_25_tuckup_stem.png" alt="" width="400"/>
+
+![Reeves at the Grand Canyon](assets/images/gc_25_tuckup_stem.png)
 
 Welcome to my portfolio site! I’m a financial analyst with interests in public finance, real estate, and data science.
 
