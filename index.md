@@ -1,6 +1,8 @@
 ## 📸 About Me
 
-![Reeves at the Grand Canyon](photos/gc25_tuckup_stem.png)
+<img src="assets/images/grand_canyon.jpg" alt="Reeves at the Grand Canyon" width="400"/>
+
+I love hiking, cooking lasagna with friends, and working on side projects like this one.
 
 I love hiking, cooking lasagna with friends, and working on side projects like this one.
 
